@@ -1,0 +1,6 @@
+2023/09/08-23:46:51.681 3 Reusing MANIFEST /home/ajay/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/09/08-23:46:51.682 3 Recovering log #3
+2023/09/08-23:46:51.682 3 Reusing old log /home/ajay/.config/google-chrome/Default/Local Storage/leveldb/000003.log 
+2023/09/08-23:48:21.540 5 Level-0 table #5: started
+2023/09/08-23:48:21.545 5 Level-0 table #5: 19431 bytes OK
+2023/09/08-23:48:21.550 5 Delete type=0 #3

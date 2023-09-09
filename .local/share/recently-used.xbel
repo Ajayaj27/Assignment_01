@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ajay/Documents/ajay_token" added="2023-09-08T18:22:54.242723Z" modified="2023-09-08T18:22:54.242734Z" visited="2023-09-08T18:22:54.242724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2023-09-08T18:22:54.242728Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/Documents/ajay_token.odt" added="2023-09-08T18:22:54.875666Z" modified="2023-09-08T19:02:27.137996Z" visited="2023-09-08T18:22:54.875666Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2023-09-08T19:02:27.137995Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/labday02" added="2023-09-08T18:46:33.946356Z" modified="2023-09-08T18:46:33.946359Z" visited="2023-09-08T18:46:33.946356Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-08T18:46:33.946357Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/labday02_2" added="2023-09-08T18:46:41.220066Z" modified="2023-09-08T18:46:41.220068Z" visited="2023-09-08T18:46:41.220066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-08T18:46:41.220067Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/labday02_1/labday02" added="2023-09-08T18:46:49.078647Z" modified="2023-09-08T18:46:49.078651Z" visited="2023-09-08T18:46:49.078647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-08T18:46:49.078649Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/DESD/ECP/ecp/Day02/Demos/demo.c" added="2023-09-09T11:23:50.382556Z" modified="2023-09-09T11:23:50.382559Z" visited="2023-09-09T11:23:50.382556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-09T11:23:50.382557Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/DESD/ECP/ecp/Day03/Demos/demo07.c" added="2023-09-09T11:27:28.729681Z" modified="2023-09-09T11:27:28.729684Z" visited="2023-09-09T11:27:28.729681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-09T11:27:28.729682Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/DESD/ECP/ecp/CAssignments/assign01.pdf" added="2023-09-09T11:29:17.377156Z" modified="2023-09-09T11:34:54.606086Z" visited="2023-09-09T11:29:17.377157Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-09-09T11:34:54.606083Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/DESD/ECP/ecp/CAssignments/assign02.pdf" added="2023-09-09T11:29:30.406981Z" modified="2023-09-09T11:29:30.406987Z" visited="2023-09-09T11:29:30.406982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-09-09T11:29:30.406984Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/DESD/ECP/ecp/CAssignments/assign03.pdf" added="2023-09-09T11:30:21.649479Z" modified="2023-09-09T11:30:21.649487Z" visited="2023-09-09T11:30:21.649480Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2023-09-09T11:30:21.649483Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/DESD/ECP/ecp/Day03/Demos/demo04.c" added="2023-09-09T11:33:11.692552Z" modified="2023-09-09T11:33:11.692555Z" visited="2023-09-09T11:33:11.692552Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-09T11:33:11.692553Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/DESD/ECP/ecp/Day03/Demos/demo05.c" added="2023-09-09T11:33:50.942300Z" modified="2023-09-09T11:33:50.942304Z" visited="2023-09-09T11:33:50.942301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-csrc"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-09T11:33:50.942302Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ajay/sept2023/labday02_1/labday02" added="2023-09-09T13:23:13.767743Z" modified="2023-09-09T13:23:13.767747Z" visited="2023-09-09T13:23:13.767744Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2023-09-09T13:23:13.767745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

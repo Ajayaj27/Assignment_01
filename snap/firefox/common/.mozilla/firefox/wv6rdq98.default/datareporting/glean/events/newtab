@@ -1,0 +1,2 @@
+{"timestamp":579920,"category":"newtab.search.ad","name":"impression","extra":{"is_tagged":"true","telemetry_id":"google","is_follow_on":"false","newtab_visit_id":"{14614d97-9f52-47f5-bed1-78ff41ccfbe4}","search_access_point":"reload"}}
+{"timestamp":580920,"category":"newtab.search.ad","name":"click","extra":{"is_follow_on":"false","telemetry_id":"google","is_tagged":"true","search_access_point":"reload","newtab_visit_id":"{14614d97-9f52-47f5-bed1-78ff41ccfbe4}"}}
